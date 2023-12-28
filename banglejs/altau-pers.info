@@ -1,0 +1,6 @@
+{
+  "id":"altau-pers",
+  "name":"Personal",
+  "src":"altau-pers.app.js",
+  "icon":"altau-pers.img",
+}
